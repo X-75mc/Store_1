@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"title": "Pizza makaroni",
+		"price": 30,
+		"imgSrc": "pizza_one.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Pizza paperoni",
+		"price": 25,
+		"imgSrc": "pizza_two.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Pizza kartafolli",
+		"price": 23,
+		"imgSrc": "pizza_three.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Pizza nord",
+		"price": 32,
+		"imgSrc": "pizza_four.jpg"
+	}
+]
